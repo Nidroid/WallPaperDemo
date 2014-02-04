@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WallPaperDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="text">This demo is update phone wallpaper every hour \n\nDefault Request time is 10AM</string>
+    <string name="reqnow">Request Now</string>
+
+</resources>
